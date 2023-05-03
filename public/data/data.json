@@ -1,6 +1,48 @@
 {
-  "boards": [],
-  "tasks": [],
+  "boards": [
+    {
+      "name": "Hi DAvid",
+      "user": 0,
+      "id": 48866294224,
+      "starred": false,
+      "created": "2023-04-23"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 48866294224,
+      "description": "",
+      "completed": false,
+      "listId": 32190961029,
+      "title": "new task",
+      "id": 72364678523,
+      "created": "2023-04-23",
+      "deadline": "2023-04-26"
+    },
+    {
+      "boardId": 48866294224,
+      "description": "",
+      "completed": false,
+      "listId": 39612264260,
+      "title": "new task 2",
+      "id": 80026413601,
+      "created": "2023-04-23",
+      "deadline": "2023-04-26"
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 48866294224,
+      "title": "Hello",
+      "id": 32190961029,
+      "created": "2023-04-23"
+    },
+    {
+      "boardId": 48866294224,
+      "title": "Bye",
+      "id": 39612264260,
+      "created": "2023-04-23"
+    }
+  ]
 }
