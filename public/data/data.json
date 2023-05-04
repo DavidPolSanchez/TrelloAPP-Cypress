@@ -6,6 +6,13 @@
       "id": 48866294224,
       "starred": false,
       "created": "2023-04-23"
+    },
+    {
+      "name": "new board",
+      "user": 0,
+      "id": 39530752890,
+      "starred": false,
+      "created": "2023-05-03"
     }
   ],
   "tasks": [
@@ -30,19 +37,27 @@
       "deadline": "2023-04-26"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "email": "david@gmail.com",
+      "password": "$2a$10$jHWu.7S6GL9Pgn/6BJJWG.54A7HJju8VmdThtaJ/uQ9SbWBsc1lq.",
+      "id": 1
+    }
+  ],
   "lists": [
     {
       "boardId": 48866294224,
       "title": "Hello",
       "id": 32190961029,
-      "created": "2023-04-23"
+      "created": "2023-04-23",
+      "order": 0
     },
     {
       "boardId": 48866294224,
       "title": "Bye",
       "id": 39612264260,
-      "created": "2023-04-23"
+      "created": "2023-04-23",
+      "order": 1
     }
   ]
 }
